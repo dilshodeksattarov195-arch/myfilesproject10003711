@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authderify",
+        "uuid": 27275850,
+        "checksum": "ddb8r5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
